@@ -1,2 +1,2 @@
 # Images
-A place to store images to use in documents
+A storage space for images
